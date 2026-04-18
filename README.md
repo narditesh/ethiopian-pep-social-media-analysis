@@ -1,4 +1,4 @@
-# ethiopian-pep-social-media-analysis
+# ethiopian-PEPs-social-media-analysis
 ## 📌 Project Overview
 
 This project analyzes the social media presence of Ethiopian Politically Exposed Persons (PEPs), focusing on platform usage, account verification, and data reliability.
