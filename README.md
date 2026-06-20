@@ -35,9 +35,11 @@ LinkedIn
 Websites
 Wikipedia
 Telegram
+
 4. Verification Status Analysis
 Assessed the number of verified accounts across different platforms.
 Compared verification patterns among public officials.
+
 5. Online Visibility Assessment
 Measured the number of digital platforms used by each PEP.
 Identified the most digitally active public figures.
