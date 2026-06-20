@@ -9,10 +9,10 @@ Examine account verification status across platforms.
 Assess the online visibility of public officials.
 Identify gaps in digital engagement and transparency.
 ## 🛠 Tools Used
-Python
-Pandas
-NumPy
-Matplotlib
+Python,
+Pandas,
+NumPy,
+Matplotlib, and 
 Google Colab
 
 ## 📊 Analysis Performed
@@ -25,15 +25,15 @@ Categorized PEPs by their official positions, including ministers, presidents, m
 3. Digital Presence Analysis
 Analyzed the presence of PEPs across diffenernt platforms:
 
-Facebook
-Instagram
-Threads
-X (Twitter)
-TikTok
-YouTube
-LinkedIn
-Websites
-Wikipedia
+Facebook,
+Instagram,
+Threads,
+X (Twitter),
+TikTok,
+YouTube,
+LinkedIn,
+Websites,
+Wikipedia, and 
 Telegram
 
 4. Verification Status Analysis
@@ -49,28 +49,45 @@ Identified the most digitally active public figures.
 The dataset contains information on Ethiopian Politically Exposed Persons, including:
 
 Full names
+
 Official positions(Role)
+
 Social media profiles
+
 Verification status
+
 Website links
+
 Wikipedia pages
+
 ## 📈 Visualizations
 
 The project includes visualizations for:
 
 Gender distribution
+
 Role categories
+
 Social media platform usage
+
 Digital presence comparison
+
 Verification status analysis
+
 
 ## 🔍 Key Findings
 Male PEPs represent the majority of individuals in the dataset.
+
 Ministers constitute the largest role category.
+
 Social media adoption is widespread among Ethiopian PEPs.
+
 Platform usage varies significantly across different social networks.
+
 Several officials maintain a strong presence across multiple digital platforms.
+
 Some PEPs have limited or no official online presence.
+
 
 ## 🚀 Conclusion
 
