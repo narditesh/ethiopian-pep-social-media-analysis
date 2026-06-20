@@ -19,7 +19,7 @@ Google Colab
 1. Gender Distribution
 Examined the representation of male and female PEPs within the dataset.
 Visualized gender distribution using pie chart.
-2. Role Analysis
+2.  Role Analysis
 Categorized PEPs by their official positions, including ministers, presidents, mayors, parliament officials, and other government leaders.
 
 3. Digital Presence Analysis
